@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route, Routes } from "react-router-dom"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 
 //pages
 import FirstPage from "./components/FirstPage";
@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <HashRouter>
+      <BrowserRouter>
         <Routes>        
           <Route path="/taking-quiz" element={<Quiz/>}/>
           <Route exact path="/" element={<FirstPage/>}/>
@@ -21,7 +21,7 @@ function App() {
         </Routes>
 
         
-      </HashRouter>
+      </BrowserRouter>
 
       
     </div>

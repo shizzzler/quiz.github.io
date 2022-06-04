@@ -1,0 +1,372 @@
+{
+  "originalQuestions": [
+    {
+      "id": 1,
+      "question": "The largest moon in the solar system that is bigger than Pluto and Mercury orbit's which planet?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Earth"
+        },
+        {
+          "id": "B",
+          "ans": "Saturn"
+        },
+        {
+          "id": "C",
+          "ans": "Neptune"
+        },
+        {
+          "id": "D",
+          "ans": "Jupiter"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 2,
+      "question": "How many terrestrial planets in our solar system are there?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "2"
+        },
+        {
+          "id": "B",
+          "ans": "4"
+        },
+        {
+          "id": "C",
+          "ans": "8"
+        },
+        {
+          "id": "D",
+          "ans": "6"
+        }
+      ],
+      "correctAns": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of these planets is named after the roman god of the sea?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Neptune"
+        },
+        {
+          "id": "B",
+          "ans": "Mars"
+        },
+        {
+          "id": "C",
+          "ans": "Jupiter"
+        },
+        {
+          "id": "D",
+          "ans": "Venus"
+        }
+      ],
+      "correctAns": "A"
+    },
+    {
+      "id": 4,
+      "question": "What number doesn't have its own Roman numeral?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "69"
+        },
+        {
+          "id": "B",
+          "ans": "420"
+        },
+        {
+          "id": "C",
+          "ans": "Quadrillion"
+        },
+        {
+          "id": "D",
+          "ans": "0"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 5,
+      "question": "What is our current numerical system based on?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Memes"
+        },
+        {
+          "id": "B",
+          "ans": "Hindu-Arabic numeral system"
+        },
+        {
+          "id": "C",
+          "ans": "Roman numeral"
+        },
+        {
+          "id": "D",
+          "ans": "Octal number system"
+        }
+      ],
+      "correctAns": "B"
+    },
+    {
+      "id": 6,
+      "question": "How many teeth does an adult human have?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "32"
+        },
+        {
+          "id": "B",
+          "ans": "23"
+        },
+        {
+          "id": "C",
+          "ans": "43"
+        },
+        {
+          "id": "D",
+          "ans": "69"
+        }
+      ],
+      "correctAns": "A"
+    },
+    {
+      "id": 7,
+      "question": "What is the first layer of the Earth?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Land"
+        },
+        {
+          "id": "B",
+          "ans": "Atmosphere"
+        },
+        {
+          "id": "C",
+          "ans": "crust"
+        },
+        {
+          "id": "D",
+          "ans": "Lithosphere"
+        }
+      ],
+      "correctAns": "C"
+    },
+    {
+      "id": 8,
+      "question": "What number is considered a magic number",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "69"
+        },
+        {
+          "id": "B",
+          "ans": "420"
+        },
+        {
+          "id": "C",
+          "ans": "9"
+        },
+        {
+          "id": "D",
+          "ans": "7"
+        }
+      ],
+      "correctAns": "C"
+    },
+    {
+      "id": 9,
+      "question": "How many different combinations does a Rubix cube have?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "69"
+        },
+        {
+          "id": "B",
+          "ans": "420"
+        },
+        {
+          "id": "C",
+          "ans": "69 420"
+        },
+        {
+          "id": "D",
+          "ans": "43 quintillion"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 10,
+      "question": "Largest animal on Earth",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Hippo"
+        },
+        {
+          "id": "B",
+          "ans": "Jupiter"
+        },
+        {
+          "id": "C",
+          "ans": "Elephant"
+        },
+        {
+          "id": "D",
+          "ans": "Whale"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 11,
+      "question": "What is the only number spelled with letters in alphabetical order?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "44"
+        },
+        {
+          "id": "B",
+          "ans": "43"
+        },
+        {
+          "id": "C",
+          "ans": "42"
+        },
+        {
+          "id": "D",
+          "ans": "40"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 12,
+      "question": "The planet Earth is surrounded by different layers of gas, which when taken together, we call the…?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Crust"
+        },
+        {
+          "id": "B",
+          "ans": "Atmosphere"
+        },
+        {
+          "id": "C",
+          "ans": "Ozone layer"
+        },
+        {
+          "id": "D",
+          "ans": "Stratosphere"
+        }
+      ],
+      "correctAns": "B"
+    },
+    {
+      "id": 13,
+      "question": "How many colors are needed on a map to make sure that no border will share a color?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "69"
+        },
+        {
+          "id": "B",
+          "ans": "4"
+        },
+        {
+          "id": "C",
+          "ans": "2"
+        },
+        {
+          "id": "D",
+          "ans": "0"
+        }
+      ],
+      "correctAns": "B"
+    },
+    {
+      "id": 14,
+      "question": "How many seconds are in one day?",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "5005"
+        },
+        {
+          "id": "B",
+          "ans": "60 minutes"
+        },
+        {
+          "id": "C",
+          "ans": "2 hours"
+        },
+        {
+          "id": "D",
+          "ans": "86,400"
+        }
+      ],
+      "correctAns": "D"
+    },
+    {
+      "id": 15,
+      "question": "Smallest bone in the body",
+      "choices": [
+        {
+          "id": "A",
+          "ans": "Middle ear"
+        },
+        {
+          "id": "B",
+          "ans": "Femur"
+        },
+        {
+          "id": "C",
+          "ans": "Tail Bone"
+        },
+        {
+          "id": "D",
+          "ans": "nasal bone"
+        }
+      ],
+      "correctAns": "A"
+    }
+  ],
+  "newQuestions": [],
+  "quotes": [
+    {
+      "quote":"I have no special talents. I am only passionately curious.",
+      "by":"Albert Einstein"
+    },
+    {
+      "quote":"In the depth of winter, I finally learned that within me there lay an invincible summer.",
+      "by":"Albert Camus"
+    },
+    {
+      "quote":"Without hard work, nothing grows but weeds.",
+      "by":"Gordon B. Hinckley"
+    },
+    {
+      "quote":"We delight in the beauty of a butterfly, but rarely admit the changes it has gone through to acheive such beauty.",
+      "by":"Maya Angelou"
+    },
+    {
+      "quote":"Once we accept our limits, we go beyond them",
+      "by":"Albert Einstein"
+    }
+  ]
+}

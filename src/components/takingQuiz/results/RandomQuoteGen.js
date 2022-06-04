@@ -9,14 +9,14 @@ const RandomQuoteGen = () => {
   const [throwError, setThrowError] = useState(null)
 
   useEffect(() => {
-    fetch("http://localhost:8000/quotes")
+    fetch("https://shizzzler.github.io/quiz-app-MockDatabase/database.json")
       .then(res => {
         if(!res.ok){
           throw Error("failed to fetch quote")
         }
         return res.json()})
       .then(data => {
-        setQuote(data[randomNum])
+        setQuote(data.quotes[randomNum])
         setIsLoading(false)
       })
       .catch(err => {setThrowError(err.message)})

@@ -24,7 +24,7 @@ const Quiz = () => {
 
 
   useEffect(() => {
-      fetch("http://localhost:8000/originalQuestions")
+      fetch("https://shizzzler.github.io/quiz-app-MockDatabase/database.json")
         .then(res => {
           if(!res.ok) {
             throw Error("failed to fetch data")
@@ -32,7 +32,7 @@ const Quiz = () => {
           return res.json()
         })
         .then(data => {
-          setQuestion(data[count])
+          setQuestion(data.originalQuestions[count])
           setLoading(false)
         })
         .catch(err => {

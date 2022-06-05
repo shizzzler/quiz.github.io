@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/quiz-app.github.io/static/css/main.300f3789.css",
-    "main.js": "/quiz-app.github.io/static/js/main.d5ca1488.js",
-    "index.html": "/quiz-app.github.io/index.html",
-    "main.300f3789.css.map": "/quiz-app.github.io/static/css/main.300f3789.css.map",
-    "main.d5ca1488.js.map": "/quiz-app.github.io/static/js/main.d5ca1488.js.map"
+    "main.css": "/shizzzler/shizzzler.github.io/static/css/main.300f3789.css",
+    "main.js": "/shizzzler/shizzzler.github.io/static/js/main.d5ca1488.js",
+    "index.html": "/shizzzler/shizzzler.github.io/index.html",
+    "main.300f3789.css.map": "/shizzzler/shizzzler.github.io/static/css/main.300f3789.css.map",
+    "main.d5ca1488.js.map": "/shizzzler/shizzzler.github.io/static/js/main.d5ca1488.js.map"
   },
   "entrypoints": [
     "static/css/main.300f3789.css",

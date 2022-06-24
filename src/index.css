@@ -105,7 +105,7 @@ a{
   border: 1px solid transparent;
   border-radius: 20px;
   transition: /*add something here*/ 300ms;
-  box-shadow: 0px 0px 10px 10px black ;
+  box-shadow: 0px 0px 30px 10px black ;
   cursor: pointer;
 }
 

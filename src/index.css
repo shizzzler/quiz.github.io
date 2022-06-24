@@ -105,13 +105,13 @@ a{
   border: 1px solid transparent;
   border-radius: 20px;
   transition: /*add something here*/ 300ms;
-  box-shadow: 0px 0px 10px 2px black ;
+  box-shadow: 5px 5px 10px;
   cursor: pointer;
 }
 
 .first-page-btn button:hover,
 .first-page-btn button:focus{
-  box-shadow: 5px 5px 10px;
+  box-shadow: 0px 0px 30px 2px black ;
 }
 
 .first-page-btn button:active{

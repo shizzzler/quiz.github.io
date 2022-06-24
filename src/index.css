@@ -111,7 +111,7 @@ a{
 
 .first-page-btn button:hover,
 .first-page-btn button:focus{
-  box-shadow: 0px 0px 30px 2px black ;
+  box-shadow: 0px 0px 10px 2px black ;
 }
 
 .first-page-btn button:active{

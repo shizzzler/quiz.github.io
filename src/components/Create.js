@@ -166,8 +166,9 @@ const Create = () => {
                     </div>
                 </div>               
                 <div className='choices-btn'>
-                    <input type="submit" value="SUBMIT FORM" />
                     <Finish show={handleClick} />
+                    <input type="submit" value="SUBMIT FORM" />
+                    
                 </div> 
             </div>               
           </form>

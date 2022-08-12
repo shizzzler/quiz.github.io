@@ -2,7 +2,7 @@ import React from 'react'
 
 const Finish = ({show}) => {
   return (
-    <button onClick={show} >FINISH</button>
+    <button onClick={show} >Finishing touches</button>
   )
 }
 

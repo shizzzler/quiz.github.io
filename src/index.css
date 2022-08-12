@@ -122,7 +122,7 @@ a{
 }
 
 .first-page-btn button:active{
-  transform: scale(.95);
+  transform: scale(.98);
 }
 
 /*for the questions page*/
@@ -189,7 +189,7 @@ a{
 }
 
 .choice:active{
-  transform: scale(.90);
+  transform: scale(.95);
 }
 
 .choice h3{
@@ -278,24 +278,26 @@ a{
   cursor: pointer;
   border: none;
   border-radius: 10px;
+   margin-left: 4rem;
 }
 
 .choices-btn input:hover{
-  transform: scale(.97);
+  transform: scale(.99);
 }
 
 .choices-btn button {
-  margin-left: 4rem;
+
   font-size: 1.1em;
-  width: 50%;
   cursor: pointer;
   transition: 500ms;
   border: none;
   border-radius: 10px;
+  background: none;
+  text-decoration: underline;
 }
 
 .choices-btn button:hover{
-  transform: scale(.97);
+  color: blue;
 }
 
 /*FINISHING TOUCHES*/

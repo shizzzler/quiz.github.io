@@ -427,11 +427,11 @@ a{
 }
 
 .green{
-  outline: 2px green solid;
+  outline: 5px green solid;
 }
 
 .red{
-  outline: 2px red solid;
+  outline: 5px red solid;
 }
 
 /*additional buttons*/

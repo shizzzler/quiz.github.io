@@ -1,10 +1,10 @@
-thanks for reading me
+Thanks for reading me
 
 
 
 
-update: its been more than a year since i last visited this project.
-doesnt work on the github pages anymore for some reason.
-havent had the time to work around it yet.
-so for the mean time ill just use the repo on my second acc.
+update: it's been more than a year since I last visited this project.
+it's faulty on github pages for reasons I am too lazy to fix or look into.
+here is a backup page from my second repo if the website 
+only shows the background or if it malfunctions at all.
 https://ulyysys.github.io/quiz-app/
